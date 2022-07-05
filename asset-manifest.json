@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Leejoongjae123.github.io/nwitter/static/js/main.c8361cd4.js",
-    "index.html": "/Leejoongjae123.github.io/nwitter/index.html",
-    "main.c8361cd4.js.map": "/Leejoongjae123.github.io/nwitter/static/js/main.c8361cd4.js.map"
+    "main.js": "/nwitter/static/js/main.978b4e1b.js",
+    "index.html": "/nwitter/index.html",
+    "main.978b4e1b.js.map": "/nwitter/static/js/main.978b4e1b.js.map"
   },
   "entrypoints": [
-    "static/js/main.c8361cd4.js"
+    "static/js/main.978b4e1b.js"
   ]
 }
